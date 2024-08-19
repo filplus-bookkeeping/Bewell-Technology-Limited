@@ -1,5 +1,5 @@
 {
-  "Version": 1,
+  "Version": "1.3",
   "ID": "f16xgqbyk4fonenyxqfgik3qf2odr73ws7rqnisca",
   "Issue Number": "3",
   "Client": {
@@ -12,7 +12,6 @@
     "Role": "Dataset Owner"
   },
   "Project": {
-    "Project Id": "2",
     "Brief history of your project and organization": "TopSchools was founded on August 28, 2016.  As the resource aggregation platform of K12 international Education, TopSchools is committed to supporting the sustainable development of the international school market through community communication, data research, teacher training and talent recruitment.  Topschools is a close partner of international schools and international education institutions.  Provides industry with information on international education policies, operations, investments, schools, and people.  Organized various online and offline activities, cooperated with various examination bureaus, global top universities, research institutions, embassies and consulates, and provided services and support for more than 600 schools across the country;  We are linked to thousands of quality school service providers around the world to provide a variety of solutions for schools.",
     "Is this project associated with other projects/ecosystem stakeholders?": "No",
     "Describe the data being stored onto Filecoin": "Our data is very large, mainly stored all kinds of courses of teaching videos, materials, documents.",
@@ -44,7 +43,7 @@
     "Active Request ID": "9f704122-1f24-4a04-ba2a-1886efad8852",
     "On Chain Address": "f16xgqbyk4fonenyxqfgik3qf2odr73ws7rqnisca",
     "Multisig Address": "false",
-    "edited": null
+    "edited": true
   },
   "Allocation Requests": [
     {
